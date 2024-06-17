@@ -8,7 +8,7 @@ function App() {
       <div className='flex flex-col gap-10 w-full h-full bg-white rounded-2xl md:flex-row md:h-[60%] md:w-[50%] m-5' >
 
         <div className='w-full md:w-[50%]'>
-          <img className='rounded-l-2xl' src="./public/perfume.jpg" alt="" />
+          <img className='rounded-l-2xl' src="./public/perfume.jpg" alt="perfume" />
         </div>
 
         <div className='p-10 w-full md:w-[50%]'>

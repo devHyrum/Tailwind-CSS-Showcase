@@ -8,7 +8,7 @@ function App() {
       <div className='flex flex-col gap-10 w-full h-full bg-white rounded-2xl md:flex-row md:h-[60%] md:w-[50%] m-5' >
 
         <div className='w-full md:w-[50%]'>
-          <img className='rounded-l-2xl' src="./public/perfume.jpg" alt="perfume" />
+          <img className='rounded-l-2xl' src="./perfume.jpg" alt="perfume" />
         </div>
 
         <div className='p-10 w-full md:w-[50%]'>
@@ -25,7 +25,7 @@ function App() {
             </div>
 
             <button className='bg-[#3d8168] hover:bg-[#1a4031] text-[white] flex justify-center w-[100%] rounded-md py-3 font-[Montserrat]'>
-            <img className='relative top-1 mr-3' src="./public/icon-cart.svg" alt="svg"/> Add to Cart
+            <img className='relative top-1 mr-3' src="./icon-cart.svg" alt="svg"/> Add to Cart
             </button>
 
         </div>

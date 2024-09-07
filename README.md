@@ -9,7 +9,7 @@ A basic React application demonstrating the use of Tailwind CSS for styling and 
 
 ## About the Project
 
-This project aims to showcase the capabilities of Tailwind CSS in building a responsive and visually appealing website. The application displays a product offer for Gabrielle Essence Eau De Parfum, highlighting its features and providing a call-to-action for adding to cart. The design was taken from the **[Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl)** website
+This project aims to showcase the capabilities of Tailwind CSS in building a responsive and visually appealing website. The application displays a product offer for Gabrielle Essence Eau De Parfum, highlighting its features and providing a call-to-action for adding to cart. The design was taken from the **[Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)** website
 
 ## Features
 
